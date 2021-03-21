@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/#page
-   - title: "Java"
-     url: /Java/
-   - title: "Swift"
-     url: /Swift/
+  - title: "Java"
+    url: /Java/
+  - title: "Swift"
+    url: /Swift/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
