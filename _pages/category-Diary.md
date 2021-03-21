@@ -1,7 +1,7 @@
 ---
 title: "Diary"
 permalink: /categories/Diary/
-layout: single
+layout: categories
 author_profile: true
 taxonomy: Java
 ---
