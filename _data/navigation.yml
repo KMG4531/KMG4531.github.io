@@ -3,9 +3,9 @@ main:
   - title: "About"
     url: /about/#page
   - title: "Java"
-    url: /Java/
+    url: /java/
   - title: "Swift"
-    url: /Swift/
+    url: /swift/
   - title: "Categories"
     url: /categories/
   # - title: "Sample Collections"
