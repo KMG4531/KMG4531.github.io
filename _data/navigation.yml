@@ -6,6 +6,8 @@ main:
     url: /categories/java/
   - title: "Swift"
     url: /categories/swift/
+  - title: "Diary"
+    url: /categories/Diary/
   - title: "Categories"
     url: /categories/
   # - title: "Sample Collections"
