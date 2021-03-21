@@ -1,9 +1,9 @@
 ---
 title: "Diary"
 permalink: /categories/Diary/
-layout: categories
+layout: category
 author_profile: true
-taxonomy: Java
+taxonomy: Diary
 ---
-
 My own diary :D
+
