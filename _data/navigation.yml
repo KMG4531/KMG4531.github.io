@@ -6,6 +6,8 @@ main:
     url: /Java/
   - title: "Swift"
     url: /Swift/
+  - title: "Categories"
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
