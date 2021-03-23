@@ -49,7 +49,7 @@ integers.insert(90, at: 1)
 
 #### 결과
 
-![image-20210323185241399](/Users/kmg/Library/Application Support/typora-user-images/image-20210323185241399.png)
+![1번](https://KMG4531.github.io/assets/images/2021-03-24/a.png)
 
 아무것도 없는 빈 값에 append를 사용하여 1과 100이 들어간 것을 알 수 있습니다.
 
@@ -76,7 +76,7 @@ integers.contains(99)
 
 #### 결과
 
-![image-20210323190820564](/Users/kmg/Library/Application Support/typora-user-images/image-20210323190820564.png)
+![2](https://KMG4531.github.io/assets/images/2021-03-24/b.png)
 
 배열 안에 100이라는 값이 있으니 true, 99는 없으니 false를 나타내는 것을 알 수 있습니다.
 
@@ -116,7 +116,7 @@ integers.count
 
 #### 결과
 
-![image-20210323192943201](/Users/kmg/Library/Application Support/typora-user-images/image-20210323192943201.png)
+![3](https://KMG4531.github.io/assets/images/2021-03-24/c.png)
 
 배열 안에 값이 3개가 있는 걸 알 수 있습니다.
 
@@ -179,7 +179,7 @@ anyDictionary
 
 #### 결과
 
-![image-20210323211228956](/Users/kmg/Library/Application Support/typora-user-images/image-20210323211228956.png)
+![4](https://KMG4531.github.io/assets/images/2021-03-24/d.png)
 
 anyDictionary 안에 ["someKey": "value", "anotherKey": "100"] 잘 입력된 것을 보실 수 있습니다.
 
@@ -192,7 +192,7 @@ anyDictionary
 
 #### 결과
 
-![스크린샷 2021-03-23 오후 9.24.04](/Users/kmg/Desktop/스크린샷 2021-03-23 오후 9.24.04.png)
+![5](https://KMG4531.github.io/assets/images/2021-03-24/e.png)
 
 anyDictionary를 보면 100이 dictionary로 바뀐 걸 알 수 있습니다.
 
@@ -211,7 +211,7 @@ anyDictionary안에 있는 anotherKey를 삭제했으니 출력해보면 ["someK
 
 #### 결과
 
-![image-20210323213359552](/Users/kmg/Library/Application Support/typora-user-images/image-20210323213359552.png)
+![6](https://KMG4531.github.io/assets/images/2021-03-24/f.png)
 
 ------
 
@@ -254,7 +254,7 @@ let subtracting: Set<Int> = setA.subtracting(setB)          // subtracting는 �
 
 #### 결과
 
-![image-20210323214455302](/Users/kmg/Library/Application Support/typora-user-images/image-20210323214455302.png)
+![7](https://KMG4531.github.io/assets/images/2021-03-24/g.png)
 
 합집합부터 차집합까지 나온것을 알 수 있습니다.
 
