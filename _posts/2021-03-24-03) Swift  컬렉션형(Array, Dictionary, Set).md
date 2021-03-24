@@ -2,7 +2,7 @@
 
 layout: single
 
-title: "03) Swift  컬렉션형(Array, Dictionary, Set)"
+title: "03) Swift 컬렉션형"
 
 categories: Swift
 
