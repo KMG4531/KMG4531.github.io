@@ -5,6 +5,8 @@ layout: single
 title: "03) Swift  컬렉션형(Array, Dictionary, Set)"
 
 categories: Swift
+toc : true
+toc_sticky: true
 
 last_modified_at: 2020-03-24
 
