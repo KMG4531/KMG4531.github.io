@@ -10,7 +10,7 @@ categories: Swift
 last_modified_at: 2020-03-24
 
 ---
-[1.Array]#https://kmg4531.github.io/swift/03)-Swift-%EC%BB%AC%EB%A0%89%EC%85%98%ED%98%95(Array,-Dictionary,-Set)/#array
+[1. Array]#https://kmg4531.github.io/swift/03)-Swift-%EC%BB%AC%EB%A0%89%EC%85%98%ED%98%95(Array,-Dictionary,-Set)/#array
 
 
 
