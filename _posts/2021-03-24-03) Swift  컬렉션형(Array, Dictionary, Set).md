@@ -95,11 +95,11 @@ remove(), remove(at:), removeFirst(), removeLast(), removeAll()이라는 메서�
 사용법
 
 ~~~swift
-integers.remove(1)			// 배열 안에 있는 1을 지워줍니다.
-integers.remove(at:1)		// 배열의 0 다음 안에 있는 1에 있는 값을 지워줍니다.
+integers.remove(1)	// 배열 안에 있는 1을 지워줍니다.
+integers.remove(at:1)	// 배열의 0 다음 안에 있는 1에 있는 값을 지워줍니다.
 integers.removeFirst()	// 배열의 0 번째 값을 지워줍니다.
-integers.removeLast()		// 배열의 마지막 순서에 있는 값을 지워줍니다.
-integers.removeAll()		// 배열 안에 있는 모든 값을 지워줍니다.
+integers.removeLast()	// 배열의 마지막 순서에 있는 값을 지워줍니다.
+integers.removeAll()	// 배열 안에 있는 모든 값을 지워줍니다.
 ~~~
 
 
