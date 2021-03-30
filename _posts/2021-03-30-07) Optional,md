@@ -1,5 +1,4 @@
 ---
-
 layout: single
 
 title: "07) Optional"
@@ -7,7 +6,6 @@ title: "07) Optional"
 categories: Swift
 
 last_modified_at: 2021-03-30
-
 ---
 
 ## 📌Optional
