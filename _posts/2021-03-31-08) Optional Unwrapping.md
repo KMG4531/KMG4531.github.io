@@ -1,3 +1,15 @@
+---
+
+layout: single
+
+title: "08) Optional Unwrapping"
+
+categories: Swift
+
+last_modified_at: 2021-03-31
+
+---
+
 08) Optional에서 다뤄봤던 것을 가지고 Optional의 값을 꺼내오는 방법과
 
 어떤 식으로 활용을 하는지에 대해 다뤄보겠습니다.
