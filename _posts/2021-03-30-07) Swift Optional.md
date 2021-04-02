@@ -2,7 +2,7 @@
 
 layout: single
 
-title: "07) Optional"
+title: "07) Swift Optional"
 
 categories: Swift
 
